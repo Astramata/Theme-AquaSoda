@@ -210,7 +210,7 @@
         "shadow_color": [235, 235, 235],
         "shadow_offset": [0, 1],
         "font.italic": false,
-        "font.size": 13.5, ////
+        "font.size": 13, ////
         "font.face": "system"
     },
     {
@@ -219,7 +219,7 @@
         "fg": [25, 25, 25],
         "shadow_color": [245, 245, 245],
         "font.italic": false,
-        "font.size": 13.5, ////
+        "font.size": 13, ////
         "font.face": "system"
     },
     {
@@ -228,7 +228,7 @@
         "fg": [0, 0, 0],
         "shadow_color": [220, 240, 250], ////
         "font.italic": false,
-        "font.size": 13.5, ////
+        "font.size": 13, ////
         "font.face": "system"
     },
     {
@@ -236,7 +236,7 @@
         "attributes": ["transient"],
         "font.italic": false,
         "font.italic": true,
-        "font.size": 13.5, ////
+        "font.size": 13, ////
         "font.face": "system"
     },
 
