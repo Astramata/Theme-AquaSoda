@@ -1,0 +1,4 @@
+Welcome to AquaSoda!
+
+Light custom UI themes for Sublime Text 4.
+Enjoy.
