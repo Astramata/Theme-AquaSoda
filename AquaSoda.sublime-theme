@@ -661,7 +661,7 @@
         "shadow_color": [240, 240, 240], ////
         "shadow_offset": [0, 0], ////
         "font.bold": false, ////
-        "font.size": 15, ////
+        "font.size": 14.5, ////
         "font.face": "system"
     },
     {
