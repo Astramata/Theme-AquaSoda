@@ -4,14 +4,19 @@ Light custom UI theme for Sublime Text 4.
 
 Screenshot:
 
-![Screenshot](https://github.com/Astramata/Theme-AquaSoda/assets/162574044/04d99ca1-e01d-4cdd-b921-b2932a04a572)
+
+![Screenshot](https://github.com/Astramata/Theme-AquaSoda/assets/162574044/1a4f771e-382c-498c-804d-be16e9b360ef)
+
 
 Based on:
+
 
 - [Soda Theme](https://buymeasoda.github.io/soda-theme/)
 - [SoDaReloaded Theme](https://github.com/Miw0/SoDaReloaded-Theme/)
 
+
 ## Installation
+
 
 AquaSoda Theme is designed to work with [Sublime Text 4](http://www.sublimetext.com/dev) and below.
 
