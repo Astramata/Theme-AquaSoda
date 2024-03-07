@@ -2,6 +2,8 @@
 
 Light custom UI themes for Sublime Text 4.
 
+![2024-03-07 22-56-54](https://github.com/Astramata/Theme-AquaSoda/assets/162574044/521fa1aa-bdc7-4267-bce5-225a57acbb8d)
+
 Based on...
 - [Soda Theme](https://buymeasoda.github.io/soda-theme/)
 - [SoDaReloaded Theme](https://github.com/Miw0/SoDaReloaded-Theme/)
