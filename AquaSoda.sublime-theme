@@ -617,7 +617,7 @@
         "shadow_color": [0, 100, 230], ////
         "shadow_offset": [0, 0], ////
         "font.bold": false,
-        "font.size": 15, ////
+        "font.size": 14.5, ////
         "font.face": "arial"
     },
     // Sidebar heading selected
@@ -628,7 +628,7 @@
         "shadow_color": [245, 245, 245],
         "shadow_offset": [0, 0], ////
         "font.bold": false,
-        "font.size": 16,
+        "font.size": 15.5, ////
         "font.face": "arial"
     },
     // arial, calibri, tahoma, system
@@ -639,7 +639,7 @@
         "shadow_color": [245, 245, 245],
         "shadow_offset": [0, 0], ////
         "font.bold": false,
-        "font.size": 14.5, ////
+        "font.size": 14, ////
         "font.face": "system"
     },
     // Sidebar folder entry
@@ -672,7 +672,7 @@
         "shadow_color": [220, 220, 220], ////
         "shadow_offset": [0, 0], ////
         "font.bold": false,
-        "font.size": 14.5, ////
+        "font.size": 14, ////
         "font.face": "system"
     },
     // Sidebar entry selected
@@ -683,7 +683,7 @@
         "shadow_color": [245, 245, 245],
         "shadow_offset": [0, 0],
         "font.bold": false,
-        "font.size": 14.5, ////
+        "font.size": 14, ////
         "font.face": "system"
     },
 
