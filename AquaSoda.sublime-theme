@@ -946,7 +946,7 @@
         "match_fg": [25, 25, 255, 255],
         "selected_fg": [25, 25, 255, 255], ////
         "selected_match_fg": [25, 25, 255, 255],
-        "font.size": 16, ////
+        "font.size": 15, ////
         "font.face": "system"
     },
     {
@@ -955,7 +955,7 @@
         "match_fg": [0, 0, 0, 255],
         "selected_fg": [25, 25, 25, 255],
         "selected_match_fg": [0, 0, 0, 255],
-        "font.size": 15, ////
+        "font.size": 14, ////
         "font.face": "system"
     },
     {
@@ -963,7 +963,7 @@
         "fg": [72, 139, 211, 255],
         "selected_fg": [72, 139, 211, 255],
         "font.bold": true,
-        "font.size": 15,
+        "font.size": 14, ////
         "font.face": "system"
     },
 
