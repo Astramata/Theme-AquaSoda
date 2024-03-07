@@ -4,7 +4,7 @@ Light custom UI theme for Sublime Text 4.
 
 Screenshot:
 
-![Screenshot](https://github.com/Astramata/Theme-AquaSoda/assets/162574044/2ef3e873-6903-471a-846f-6d53ab955b15)
+![Screenshot](https://github.com/Astramata/Theme-AquaSoda/assets/162574044/90c8853d-d171-4452-bede-00c67f6ede29)
 
 Based on:
 
