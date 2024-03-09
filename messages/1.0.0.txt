@@ -6,6 +6,12 @@ Light custom UI themes for Sublime Text 4.
 Enjoy!
 
 
+What is new in this version?
+============================
+
+- Initial release theme.
+
+
 Help
 ========
 
