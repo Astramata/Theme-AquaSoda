@@ -9,7 +9,7 @@ Enjoy!
 What is new in this version?
 ============================
 
-- Initial release theme.
+- Initial releasing theme.
 
 
 Help
